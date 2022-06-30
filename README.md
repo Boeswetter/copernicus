@@ -1,6 +1,6 @@
-# Title
+# Working with Copernicus Weather Data
 
-In this repo we will have a look at various topics related to {Title}.
+In this repo we will have a look at various topics related to available data from copernicus.
 
 ### The way to success:
 
